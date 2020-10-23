@@ -8,11 +8,11 @@ Se você optar por usar meu Serviço, você concorda com a coleta e uso de infor
 
 Os termos utilizados nesta Política de Privacidade têm os mesmos significados dos nossos Termos e Condições, que podem ser acessados ​​no Pé Na Areia, salvo disposição em contrário nesta Política de Privacidade.
 
-** Coleta e uso de informações **
+**Coleta e uso de informações**
 
 Para uma melhor experiência, ao usar nosso Serviço, posso exigir que você nos forneça certas informações de identificação pessoal, incluindo, mas não se limitando a nome, e-mail. As informações que solicito serão retidas em seu dispositivo e não são coletadas por mim de forma alguma.
 
-** Dados de registro **
+**Dados de registro **
 
 Quero informar que sempre que você utiliza o meu Serviço, em caso de erro no aplicativo, eu coleto dados e informações (através de produtos de terceiros) no seu telefone chamado Log Data. Estes dados de registro podem incluir informações como endereço de protocolo de Internet ("IP") do dispositivo, nome do dispositivo, versão do sistema operacional, configuração do aplicativo ao utilizar meu serviço, hora e data de uso do serviço e outras estatísticas .
 
@@ -37,15 +37,15 @@ Desejo informar aos usuários deste Serviço que esses terceiros têm acesso às
 
 Valorizo ​​sua confiança em nos fornecer suas informações pessoais, portanto, estamos nos empenhando para usar meios comercialmente aceitáveis ​​de protegê-las. Mas lembre-se que nenhum método de transmissão pela internet, ou método de armazenamento eletrônico é 100% seguro e confiável, e não posso garantir sua segurança absoluta.
 
-** Links para outros sites **
+**Links para outros sites **
 
 Este serviço pode conter links para outros sites. Se você clicar em um link de terceiros, você será direcionado a esse site. Observe que esses sites externos não são operados por mim. Portanto, eu recomendo fortemente que você analise a Política de Privacidade desses sites. Não tenho controle e não assumo qualquer responsabilidade pelo conteúdo, políticas de privacidade ou práticas de quaisquer sites ou serviços de terceiros.
 
-** Privacidade das crianças **
+**Privacidade das crianças **
 
 Estes Serviços não se dirigem a menores de 13 anos. Não recolho intencionalmente informações de identificação pessoal de menores de 13 anos \. No caso de eu descobrir que uma criança menor de 13 anos me forneceu informações pessoais, apago-as imediatamente de nossos servidores. Se você é um dos pais ou responsável e sabe que seu filho nos forneceu informações pessoais, entre em contato comigo para que eu possa tomar as medidas necessárias.
 
-** Mudanças nesta Política de Privacidade **
+**Mudanças nesta Política de Privacidade **
 
 Posso atualizar nossa Política de Privacidade de tempos em tempos. Portanto, recomendamos que você revise esta página periodicamente para verificar quaisquer alterações. Irei notificá-lo de quaisquer alterações, postando a nova Política de Privacidade nesta página.
 
